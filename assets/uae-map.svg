@@ -53,12 +53,11 @@
      id="AE-NZ2"  fill="#1a1a30" stroke="#4a4a5a" stroke-width="1.2" />
 
   <!-- Emirates Labels -->
-  <text x="200" y="350" fill="#FFD700" font-size="18" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">AUH</text>
-  <text x="430" y="150" fill="#ffffff" font-size="12" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">DXB</text>
-  <text x="500" y="120" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">SHJ</text>
-  <text x="630" y="125" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">AJM</text>
-  <text x="655" y="100" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">UAQ</text>
-  <text x="680" y="70" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">RAK</text>
-  <text x="720" y="130" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif">FUJ</text>
-
+  <text x="300" y="400" fill="#FFD700" font-size="20" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">AUH</text>
+  <text x="555" y="195" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">DXB</text>
+  <text x="680" y="165" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">SHJ</text>
+  <text x="635" y="130" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">AJM</text>
+  <text x="650" y="95" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">UAQ</text>
+  <text x="690" y="60" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">RAK</text>
+  <text x="730" y="200" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">FUJ</text>
 </svg>
