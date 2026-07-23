@@ -488,33 +488,7 @@
     <p class="tip">Golden Jackets across UAE</p>
     <div class="map-container">
       <!-- Connection lines between pins -->
-      <svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg" id="uae-map" style="width:100%;max-width:600px;height:auto;">
-  <!-- UAE Simplified Map - 7 Emirates (geographic shape) -->
-  <!-- Abu Dhabi - largest, southwest -->
-  <path data-state="AUH" class="active" d="M30,120 L150,80 L200,90 L250,100 L280,130 L300,160 L280,200 L240,240 L180,260 L100,250 L50,220 L30,180 Z" fill="var(--map-active)" stroke="var(--map-stroke)" stroke-width="1.5"/>
-  <!-- Dubai - northeast coast -->
-  <path data-state="DXB" d="M300,60 L340,50 L370,55 L380,75 L370,100 L340,110 L310,105 L290,90 L300,70 Z" fill="var(--map-fill)" stroke="var(--map-stroke)" stroke-width="1.5"/>
-  <!-- Sharjah - east of Dubai -->
-  <path data-state="SHJ" d="M370,40 L410,35 L430,50 L420,70 L400,80 L380,75 L370,55 Z" fill="var(--map-fill)" stroke="var(--map-stroke)" stroke-width="1.5"/>
-  <!-- Ajman - small, between Sharjah -->
-  <path data-state="AJM" d="M410,30 L430,25 L440,35 L435,45 L420,48 L410,40 Z" fill="var(--map-fill)" stroke="var(--map-stroke)" stroke-width="1.5"/>
-  <!-- Umm Al Quwain - north coast -->
-  <path data-state="UAQ" d="M440,20 L470,15 L480,28 L475,40 L460,45 L445,38 L440,30 Z" fill="var(--map-fill)" stroke="var(--map-stroke)" stroke-width="1.5"/>
-  <!-- Ras Al Khaimah - northernmost -->
-  <path data-state="RAK" d="M470,5 L510,5 L520,20 L515,40 L500,50 L485,45 L475,30 L475,15 Z" fill="var(--map-fill)" stroke="var(--map-stroke)" stroke-width="1.5"/>
-  <!-- Fujairah - east coast -->
-  <path data-state="FUJ" d="M520,20 L550,15 L570,30 L575,60 L565,90 L545,100 L525,90 L520,65 L515,40 Z" fill="var(--map-fill)" stroke="var(--map-stroke)" stroke-width="1.5"/>
-  <!-- Labels -->
-  <text x="170" y="180" fill="#ffffff" font-size="16" font-weight="bold" text-anchor="middle">Abu Dhabi</text>
-  <text x="340" y="82" fill="#aaaaaa" font-size="12" font-weight="bold" text-anchor="middle">Dubai</text>
-  <text x="400" y="58" fill="#aaaaaa" font-size="11" font-weight="bold" text-anchor="middle">Sharjah</text>
-  <text x="425" y="37" fill="#aaaaaa" font-size="9" font-weight="bold" text-anchor="middle">Ajman</text>
-  <text x="460" y="30" fill="#aaaaaa" font-size="9" font-weight="bold" text-anchor="middle">UAQ</text>
-  <text x="495" y="28" fill="#aaaaaa" font-size="10" font-weight="bold" text-anchor="middle">RAK</text>
-  <text x="548" y="55" fill="#aaaaaa" font-size="10" font-weight="bold" text-anchor="middle">Fujairah</text>
-  <!-- Pin Abu Dhabi -->
-  <circle cx="170" cy="155" r="5" fill="#FFD700" stroke="#fff" stroke-width="1.5"/>
-</svg>
+      <img src="assets/uae-map.svg" alt="UAE Map" style="width:100%;max-width:600px;height:auto;" id="uae-map">
 
       <!-- Province labels inserted above -->
       <div class="map-pin" style="top:35%;left:48%" onclick="filterByState('AUH')"><span class="pin-icon">📍</span><span class="pin-count gold-count">1</span></div>
