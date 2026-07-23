@@ -53,11 +53,11 @@
      id="AE-NZ2"  fill="#1a1a30" stroke="#4a4a5a" stroke-width="1.2" />
 
   <!-- Emirates Labels -->
-  <text x="300" y="400" fill="#FFD700" font-size="20" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">AUH</text>
-  <text x="555" y="195" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">DXB</text>
-  <text x="680" y="165" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">SHJ</text>
-  <text x="635" y="130" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">AJM</text>
-  <text x="650" y="95" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">UAQ</text>
-  <text x="690" y="60" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">RAK</text>
-  <text x="730" y="200" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle" font-family="Arial, sans-serif" stroke="#151528" stroke-width="3" paint-order="stroke">FUJ</text>
+  <text x="250" y="380" fill="#FFD700" font-size="16" font-weight="normal" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif">AUH</text>
+  <text x="530" y="210" fill="#e0e0e0" font-size="10" font-weight="normal" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif">DXB</text>
+  <text x="620" y="155" fill="#e0e0e0" font-size="10" font-weight="normal" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif">SHJ</text>
+  <text x="640" y="125" fill="#e0e0e0" font-size="10" font-weight="normal" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif">AJM</text>
+  <text x="640" y="90" fill="#e0e0e0" font-size="10" font-weight="normal" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif">UAQ</text>
+  <text x="670" y="50" fill="#e0e0e0" font-size="10" font-weight="normal" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif">RAK</text>
+  <text x="720" y="190" fill="#e0e0e0" font-size="10" font-weight="normal" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif">FUJ</text>
 </svg>
