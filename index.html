@@ -1175,7 +1175,8 @@ setInterval(updateCountdowns, 1000);
 // Highlight active regions on SVG map - handled directly in SVG file
 </script>
 <script>
-// Dynamic counters - auto-count cards, never hardcode again
+// Dynamic counters - DISABLED (single member, hardcoded)
+if(false){
 (function(){
   var golden = document.querySelectorAll('#members .member-card:not(.challenger)').length;
   var challengers = document.querySelectorAll('#challengers .member-card.challenger').length;
@@ -1298,3 +1299,4 @@ function toggleLang() {
   });
 }
 </script>
+}
